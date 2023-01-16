@@ -1,12 +1,12 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
 h1 {
     font-size:xx-large;
-    color:rgb(234, 4, 255);
+    color:rgb(255, 0, 149);
 }
 
 h3 {
     color:black;
-}
-
-body {
-  background-color:black;
 }
